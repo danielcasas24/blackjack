@@ -14,4 +14,4 @@ Blackjack for one player against the machine (bot).
 
 | File name  | Description |
 | :---: | :---: |
-| Launcher.java  | Logic and main code |
+| Launcher.java  | Logic and main code |# blackjack
